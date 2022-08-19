@@ -2,7 +2,9 @@
 "To Infinity and BEYOND!" ~Buzz Lightyear
 
 # Project Overview:
-
+1. Adjust the current web app to include all four of the hemisphere images using BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images 
+2. Store the scraped data on a Mongo database 
+3. Use a web application to display the data and alter the design of the web app to accommodate hemisphere images 
 # Results:
 ## Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles
 ```
